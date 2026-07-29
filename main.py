@@ -72,7 +72,7 @@ class BudgetTracker:
                 self.transactions = []
                 for item in loaded_data:
                     # Létrehozzuk újra a Transaction objektumokat a szótár adatai alapján
-                    i = Transaction(
+                    t = Transaction(
                         type=item["type"],
                         sum=item["sum"],
                         category=item["category"],
