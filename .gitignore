@@ -1,0 +1,12 @@
+
+# Python virtuális környezet
+.venv/
+venv/
+__pycache__/
+
+# A személyes költségvetési adatokat tartalmazó JSON fájl
+budget_data.json
+test_*.json
+
+# PyCharm beállítások
+.idea/
