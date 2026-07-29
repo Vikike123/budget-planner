@@ -19,4 +19,8 @@
 * Building web applications with Streamlit
 * Application deployment & sharing: [Live Demo](https://budget-planner-7lvp2mfizrvofbxnvzxqsg.streamlit.app/)
 
+<img width="1440" height="900" alt="Képernyőfotó 2026-07-29 - 22 39 53" src="https://github.com/user-attachments/assets/fd2a9cda-c7db-48e9-baab-f8ea2b88c48f" />
+<img width="1440" height="900" alt="Képernyőfotó 2026-07-29 - 22 39 20" src="https://github.com/user-attachments/assets/700dace4-ebc8-4814-88bd-e779a2fc4067" />
+
+
 
